@@ -1,4 +1,4 @@
-# Javascript :
+# Javascript
 
 ## Node.js 
   - Node.js [documentation](https://nodejs.org/dist/latest/docs/api/documentation.html)
