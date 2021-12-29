@@ -1,7 +1,7 @@
 # Learning Resources
 This is collections of programming learning resources.
 
-## Javascript:
+## Javascript
 - Node.js 
   - Node.js [documentation](https://nodejs.org/dist/latest/docs/api/documentation.html)
   - Open resources 
@@ -16,5 +16,5 @@ This is collections of programming learning resources.
 - [Docs formating syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ## Collaboration 
-- [Online code](https://replit.com/)
+- [Online coding](https://replit.com/)
 
