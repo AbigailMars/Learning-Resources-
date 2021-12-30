@@ -1,7 +1,9 @@
 # Learning Resources
 This is collections of programming learning resources.
 
-## Javascript
+## Web technologyJavascript
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+- Javascript
 - Node.js 
   - Node.js [documentation](https://nodejs.org/dist/latest/docs/api/documentation.html)
   - Open resources 
