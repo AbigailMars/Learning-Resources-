@@ -1,7 +1,7 @@
 # Learning Resources
 This is collections of programming learning resources.
 
-## Web technologyJavascript
+## Web technology
 - Documentation for Web developers [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
 - Javascript
 - Node.js 
