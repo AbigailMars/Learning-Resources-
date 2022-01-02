@@ -9,3 +9,9 @@
     - version comparation [Node compat](https://node.green/)
     - version manager [nvm](https://github.com/nvm-sh/nvm) 
     - version manager [n](https://github.com/nvm-sh/nvm)
+
+# important feature 
+  - Privacy 
+    No build-in privacy keywords like in C++,Java.
+    - place an underscour _ before the name : indicate it is not changable but it still could be accessed.
+    - [closure citation](https://discuss.codecademy.com/t/are-there-other-ways-to-bring-privacy-to-our-objects/368646)
