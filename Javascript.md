@@ -18,4 +18,6 @@
   - Getter and Setter
     treat them as property, no need to call with parenthesis.
   -  ** The value of this 
-    https://discuss.codecademy.com/t/why-console-logging-this-in-an-arrow-function-inside-a-method-logs-the-object-and-when-set-as-a-value-of-an-object-property-it-shows/370375
+    - https://discuss.codecademy.com/t/why-console-logging-this-in-an-arrow-function-inside-a-method-logs-the-object-and-when-set-as-a-value-of-an-object-property-it-shows/370375
+  - Objects 
+    - https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects 
