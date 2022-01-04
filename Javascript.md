@@ -17,8 +17,11 @@
     - [closure citation](https://discuss.codecademy.com/t/are-there-other-ways-to-bring-privacy-to-our-objects/368646)
   - Getter and Setter
     treat them as property, no need to call with parenthesis.
-  -  * The value of this 
+  -  The value of this 
     - https://discuss.codecademy.com/t/why-console-logging-this-in-an-arrow-function-inside-a-method-logs-the-object-and-when-set-as-a-value-of-an-object-property-it-shows/370375
   - Objects 
     - https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript/Objects 
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+  - Array Iteration 
+    - https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods
+    - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
