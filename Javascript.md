@@ -1,5 +1,5 @@
 # Presentation skills and academic 
-  - [exchange ideas & share knowledge](http://videolectures.net/)
+  - [videolectures](http://videolectures.net/)
 # Javascript
 
 ## Node.js 
