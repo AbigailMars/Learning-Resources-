@@ -1,3 +1,5 @@
+# Presentation skills and academic 
+  - [exchange ideas & share knowledge](http://videolectures.net/)
 # Javascript
 
 ## Node.js 
@@ -25,3 +27,4 @@
   - Array Iteration 
     - https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-javascript-iteration-methods
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+  - 
