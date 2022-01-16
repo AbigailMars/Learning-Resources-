@@ -1,6 +1,7 @@
 # Presentation skills and academic 
   - [videolectures](http://videolectures.net/)
-
+# 7 Collaborative Programming Tools
+ - [7 Collaborative Programming Tools](https://www.sitepoint.com/collaborative-coding-tools-for-remote-pair-programming/)
 # Build Projects 
   - [codeWars](https://www.codewars.com/)
   - [freecodecamp](https://www.freecodecamp.org/ )
