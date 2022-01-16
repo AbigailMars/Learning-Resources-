@@ -1,5 +1,9 @@
 # Presentation skills and academic 
   - [videolectures](http://videolectures.net/)
+
+# Build Projects 
+  - [codeWars](https://www.codewars.com/)
+  - [freecodecamp](https://www.freecodecamp.org/ )
 # Javascript
 
 ## Node.js 
@@ -12,7 +16,7 @@
     - version manager [nvm](https://github.com/nvm-sh/nvm) 
     - version manager [n](https://github.com/nvm-sh/nvm)
 
-# important feature 
+## important feature 
   - Privacy 
     No build-in privacy keywords like in C++,Java.
     - place an underscour _ before the name : indicate it is not changable but it still could be accessed.
