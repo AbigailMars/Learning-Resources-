@@ -5,6 +5,8 @@
 # Build Projects 
   - [codeWars](https://www.codewars.com/)
   - [freecodecamp](https://www.freecodecamp.org/ )
+# Documentation 
+  - [How to read Documentation](https://discuss.codecademy.com/t/how-do-i-read-documentation-effectively/367242) 
 # Javascript
 
 ## Node.js 
